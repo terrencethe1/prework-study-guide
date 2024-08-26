@@ -2,7 +2,7 @@
 
 ## Description
 
-This study guide was to provide a source of information for Bootcamp students, to help them find solutions during Bootcamp. Bootcamp students can have access to valuable tools and information during their journey. It solves the problem of going into the prework feeling lost. It is a web page to be used as a tool for learning how to code. 
+This study guide is to provide a source of information for Bootcamp students, to help them find solutions during Bootcamp. Bootcamp students can have access to valuable tools and information during their journey. It solves the problem of going into the prework feeling lost. It is a webpage to be used as a tool for learning how to code. 
 
 
 
